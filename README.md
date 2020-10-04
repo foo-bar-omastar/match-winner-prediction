@@ -2,7 +2,7 @@
 
 Below is the excerpt from the MachineHack website for MachineHack’s ODI Match Winner: Weekend Hackathon #9 [Link To Their Website](https://www.machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9)
 
-### **Problem Statement & Description**
+### **Problem Statement & Description:**
 
 Our country shares a great deal of history with the game of cricket. Introduced as a royal game by the British during the British Raj, India took on the game as a popular sport even after its Independence. Today cricket is more than just a sport in India. In this hackathon, we challenge data science enthusiasts to predict the winning team of an ODI (One Day International) match.
 
